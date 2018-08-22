@@ -2,7 +2,7 @@ body {
   width: 260px;
   margin: 0;
   padding: 0 10px;
-  line-height: 1.1;
+  
   font-size: 16px;
   font-family: "Times New Roman", serif;
 }
@@ -13,12 +13,12 @@ h1 {
 
 .sub {
   vertical-align: sub;
-  font-size: 0.8em
+  font-size: 12px;
 }
 
 .sup {
   vertical-align: super;
-  font-size: 0.8em;
+  font-size: 12px;
 }
 
 .del {
